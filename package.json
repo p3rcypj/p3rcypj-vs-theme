@@ -3,6 +3,10 @@
     "displayName": "p3rcypj theme",
     "description": "",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/p3rcypj/p3rcypj-vs-theme.git"
+    },
     "engines": {
         "vscode": "^1.64.0"
     },
